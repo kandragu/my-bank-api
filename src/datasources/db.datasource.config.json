@@ -1,0 +1,6 @@
+{
+  "name": "db",
+  "connector": "memory",
+  "localStorage": "trans-db",
+  "file": "./data/db.json"
+}
