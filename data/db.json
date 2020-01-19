@@ -1,10 +1,9 @@
 {
   "ids": {
-    "Transaction": 2
+    "Transaction": 1
   },
   "models": {
     "Transaction": {
-      "1": "{\"account\":\"accA\",\"currency\":\"SGD\",\"action\":\"credit\",\"amount\":220,\"desc\":\"string\",\"id\":1}"
     }
   }
 }
