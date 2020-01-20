@@ -1,3 +1,6 @@
-# my-bank-api
+## Run MY-BANK-API
 
-[![LoopBack](https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png)](http://loopback.io/)
+- git clone https://github.com/kandragu/my-bank-api.git
+- cd my-bank-api
+- npm install
+- npm start
